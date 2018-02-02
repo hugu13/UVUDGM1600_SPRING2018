@@ -23,12 +23,12 @@ public class cubemove : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		// transform.Translate(transX,transY,transZ);
-		// transform. Rotate(rotX, rotY, rotZ);
+		 //transform.Translate(transX,transY,transZ);
+		 //transform. Rotate(rotX, rotY, rotZ);
 		if(Input.GetKey(KeyCode.W))
 			transform.Translate(Vector3.forward * moveSpeed * Time.deltaTime);
-		// transform.Translate(move * Time.deltaTime);
-		// transform.Rotate(rotate * Time.deltaTime);
+		 //transform.Translate(move * Time.deltaTime);
+		 //transform.Rotate(rotate * Time.deltaTime);
 		if(Input.GetKey(KeyCode.S))
 			transform.Translate(Vector3.back * moveSpeed * Time.deltaTime);
 			
