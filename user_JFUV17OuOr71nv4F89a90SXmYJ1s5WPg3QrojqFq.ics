@@ -1,0 +1,616 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALDESC:Calendar events for the user\, Hugo Martinez
+X-WR-CALNAME:Hugo Martinez Calendar (Canvas)
+CALSCALE:GREGORIAN
+PRODID:iCalendar-Ruby
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180207T200000Z
+DTSTAMP:20180126T024000Z
+DTSTART:20180207T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:1-4: Exercise Empirical rule [MAT-1035]
+UID:event-assignment-3720682
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720682
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180212T200000Z
+DTSTAMP:20180104T231500Z
+DTSTART:20180212T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:2-1: Exercises - Probability [MAT-1035]
+UID:event-assignment-3720685
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720685
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180216T200000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180216T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:2-1a: Expected value exercises [MAT-1035]
+UID:event-assignment-3720684
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720684
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180216T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180216T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3B-1: Practice [MAT-1035]
+UID:event-assignment-3720697
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720697
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180220T160000Z
+DTSTAMP:20180301T221000Z
+DTSTART:20180220T160000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Normal Distribution [MAT-1035]
+UID:event-assignment-3795358
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3795358
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180221T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180221T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3B-2: Practice [MAT-1035]
+UID:event-assignment-3720698
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720698
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch read and practice from the module: [Arrays and Lists](%24
+ CANVAS_OBJECT_REFERENCE%24/modules/ieef23710ef7de2aafa198299e34fbb8c)\n\nWr
+ ite your understanding of the topic using comments and examples (at least 1
+ 0 examples) to the instructor and describe them in your own words to the be
+ st of your knowledge. Put your work to GIT. Submit the GIT url to canvas. \
+ n\n 
+DTEND;VALUE=DATE:20180222
+DTSTAMP:20180302T022000Z
+DTSTART;VALUE=DATE:20180222
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Homework: Lists [DGM-1600]
+UID:event-assignment-3781882
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452866&mont
+ h=02&year=2018#assignment_3781882
+X-ALT-DESC;FMTTYPE=text/html:<p><span></span><span>Watch read and practice 
+ from the module: <a id="" class="" title="Arrays and Lists" href="%24CANVAS
+ _OBJECT_REFERENCE%24/modules/ieef23710ef7de2aafa198299e34fbb8c" target="" d
+ ata-api-endpoint="https://uvu.instructure.com/api/v1$CANVAS_OBJECT_REFERENC
+ E$/modules/ieef23710ef7de2aafa198299e34fbb8c" data-api-returntype="Module">
+ Arrays and Lists</a></span></p>\n<p><span>Write your understanding of the t
+ opic using comments and examples (at least 10 examples) to the instructor a
+ nd describe them in your own words to the best of your knowledge. Put your 
+ work to GIT. Submit the GIT url to canvas. </span></p>\n<p><span> </span></
+ p>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Write your understanding of the topic using comments and exampl
+ es (at least 10 examples) to the instructor and describe them in your own w
+ ords to the best of your knowledge. Put your work to GIT. Submit the GIT ur
+ l to canvas. \n\n 
+DTEND;VALUE=DATE:20180222
+DTSTAMP:20180308T065500Z
+DTSTART;VALUE=DATE:20180222
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:In-class: Arrays [DGM-1600]
+UID:event-assignment-3781889
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452866&mont
+ h=02&year=2018#assignment_3781889
+X-ALT-DESC;FMTTYPE=text/html:<p><span>Write your understanding of the topic
+  using comments and examples (at least 10 examples) to the instructor and d
+ escribe them in your own words to the best of your knowledge. Put your work
+  to GIT. Submit the GIT url to canvas. </span></p>\n<p><span> </span></p>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180223T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180223T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3B-3 Practice [MAT-1035]
+UID:event-assignment-3720699
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720699
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180226T200000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180226T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:2-3: Exercises - Fair Division [MAT-1035]
+UID:event-assignment-3720687
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720687
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180226T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180226T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3B-4 Practice [MAT-1035]
+UID:event-assignment-3720700
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720700
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180228T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180228T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3B-5 Practice [MAT-1035]
+UID:event-assignment-3720701
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=02&year=2018#assignment_3720701
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180302T200000Z
+DTSTAMP:20180104T231500Z
+DTSTART:20180302T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:2-2: Exercises - Voting Theory [MAT-1035]
+UID:event-assignment-3720686
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720686
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180302
+DTSTAMP:20180104T231500Z
+DTSTART;VALUE=DATE:20180302
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Exam 2 [MAT-1035]
+UID:event-assignment-3720717
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720717
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You need to upload your motion projects here. Sketchbooks will 
+ be collected in class.\n\nThere are five motion files altogether (if you co
+ mbine the first two\, the ball bounce and the ball bounce with tail there w
+ ill be only four files submitted):\n\n1. Ball Bounce\n\n2. Ball Bounce with
+  a Tail\n\n3. Walk Across the Page\n\n4. Brick Drop\n\n5. Character Walk Cy
+ cle
+DTEND;VALUE=DATE:20180302
+DTSTAMP:20180307T192800Z
+DTSTART;VALUE=DATE:20180302
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Midterm [DGM-1620]
+UID:event-assignment-3775305
+URL:http://uvu.instructure.com/calendar?include_contexts=course_451159&mont
+ h=03&year=2018#assignment_3775305
+X-ALT-DESC;FMTTYPE=text/html:<p>You need to upload your motion projects her
+ e. Sketchbooks will be collected in class.</p>\n<p>There are five motion fi
+ les altogether (if you combine the first two\, the ball bounce and the ball
+  bounce with tail there will be only four files submitted):</p>\n<p>1. Ball
+  Bounce</p>\n<p>2. Ball Bounce with a Tail</p>\n<p>3. Walk Across the Page<
+ /p>\n<p>4. Brick Drop</p>\n<p>5. Character Walk Cycle</p>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180305T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180305T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3A-1: Practice [MAT-1035]
+UID:event-assignment-3720695
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720695
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180305T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180305T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3A-2: Order of Operations - Fractions [MAT-1035]
+UID:event-assignment-3720696
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720696
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180305T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180305T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4A-1: Exercises [MAT-1035]
+UID:event-assignment-3720703
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720703
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180307T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180307T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4A-2: Practice [MAT-1035]
+UID:event-assignment-3720705
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720705
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180309T200000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180309T200000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4A-2a: Additional Practice [MAT-1035]
+UID:event-assignment-3720704
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720704
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180312T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180312T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3-2a Percents and Applications [MAT-1035]
+UID:event-assignment-3720690
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720690
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180312T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180312T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3-2b: Exercises -Taxes [MAT-1035]
+UID:event-assignment-3720691
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720691
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180312T190000Z
+DTSTAMP:20180304T235400Z
+DTSTART:20180312T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Voting Project [MAT-1035]
+UID:event-assignment-3795356
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3795356
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180313T190000Z
+DTSTAMP:20180104T231500Z
+DTSTART:20180313T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4A-3: Practice [MAT-1035]
+UID:event-assignment-3720707
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720707
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180313T190000Z
+DTSTAMP:20180104T231500Z
+DTSTART:20180313T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4A-3a: Additional Practice [MAT-1035]
+UID:event-assignment-3720706
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720706
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180314T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180314T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3.1 Dimensional Analysis exercises [MAT-1035]
+UID:event-assignment-3720689
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720689
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180319T190000Z
+DTSTAMP:20180104T231500Z
+DTSTART:20180319T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3-2 Proportions exercises [MAT-1035]
+UID:event-assignment-3720692
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720692
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180326T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180326T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3.1a Challenge Questions [MAT-1035]
+UID:event-assignment-3720688
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720688
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180326T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180326T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3.3 Exercises - Problem Solving [MAT-1035]
+UID:event-assignment-3720694
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720694
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180326T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180326T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:3.3a  Additional Problem Solving [MAT-1035]
+UID:event-assignment-3720693
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720693
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:For this assignment you will pick a  book from the book list. W
+ rite an essay with your reflections of the book. The length should be at le
+ ast 850 words and not more than 1500 words (not including quotations from t
+ he book\, if any). This is your reflection on the book and therefore there 
+ should be no lengthy quotations from the book. \n\nYou must address the fol
+ lowing:\n\nHow was mathematics used in the book? Is it what you expected? W
+ hy or why not? Give a few examples of the mathematics used.\n\nFor some add
+ itional ideas of what to write about consider the following (it is not nece
+ ssary to address all of these):\n\nWhat was the main point or theme of the 
+ book and did you find that interesting in any way?\n\nHow can the mathemati
+ cs in the book be connected with society\, specifically your role in societ
+ y?\n\nWould you recommend the book to others? Why or why not?\n\nIn what wa
+ ys did this book broaden your idea of mathematics in the world?\n\nHas read
+ ing this book changed any of your thinking?\n\nWhat was your favorite part 
+ or aspect of the book and why?\n\nCheck the grading rubric for how the writ
+ ing will be assessed. Remember\, no copying or plagiarizing other work. PLE
+ ASE do not write what you think I want to hear. Be brutally honest in your 
+ thoughts/comments/reflections. Late papers will have a deduction on the gra
+ de.\n\n \n\n 
+DTEND:20180326T190000Z
+DTSTAMP:20180307T190900Z
+DTSTART:20180326T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Book reflection paper [MAT-1035]
+UID:event-assignment-3720712
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720712
+X-ALT-DESC;FMTTYPE=text/html:<p>For this assignment you will pick a  book f
+ rom the book list. Write an essay with your reflections of the book. The le
+ ngth should be at least 850 words and not more than 1500 words (not includi
+ ng quotations from the book\, if any). This is your reflection on the book 
+ and therefore there should be no lengthy quotations from the book. </p>\n<p
+ >You must address the following:</p>\n<p style="padding-left: 30px\;"><span
+ >How was mathematics used in the book? Is it what you expected? Why or why 
+ not? Give a few examples of the mathematics used.</span></p>\n<p>For some a
+ dditional ideas of what to write about consider the following (it is not ne
+ cessary to address all of these):</p>\n<p style="padding-left: 30px\;">What
+  was the main point or theme of the book and did you find that interesting 
+ in any way?</p>\n<p style="padding-left: 30px\;">How can the mathematics in
+  the book be connected with society\, specifically your role in society?</p
+ >\n<p style="padding-left: 30px\;">Would you recommend the book to others? 
+ Why or why not?</p>\n<p style="padding-left: 30px\;">In what ways did this 
+ book broaden your idea of mathematics in the world?</p>\n<p style="padding-
+ left: 30px\;">Has reading this book changed any of your thinking?</p>\n<p s
+ tyle="padding-left: 30px\;">What was your favorite part or aspect of the bo
+ ok and why?</p>\n<p>Check the grading rubric for how the writing will be as
+ sessed. Remember\, no copying or plagiarizing other work. PLEASE do not wri
+ te what you think I want to hear. Be brutally honest in your thoughts/comme
+ nts/reflections. Late papers will have a deduction on the grade.</p>\n<p st
+ yle="padding-left: 30px\;"> </p>\n<p style="padding-left: 30px\;"> </p>
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180330T190000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180330T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4B-1:  Exercises [MAT-1035]
+UID:event-assignment-3720709
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720709
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180330T190000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180330T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4B-1a: Exercises [MAT-1035]
+UID:event-assignment-3720708
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720708
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180330T190000Z
+DTSTAMP:20180107T000000Z
+DTSTART:20180330T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4B-2: Exercises [MAT-1035]
+UID:event-assignment-3720710
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=03&year=2018#assignment_3720710
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180402T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180402T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:4-1: Exercises - Growth Models [MAT-1035]
+UID:event-assignment-3720702
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=04&year=2018#assignment_3720702
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND;VALUE=DATE:20180406
+DTSTAMP:20180106T234600Z
+DTSTART;VALUE=DATE:20180406
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Exam 3 [MAT-1035]
+UID:event-assignment-3720718
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=04&year=2018#assignment_3720718
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180420T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180420T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:5-1: Exercises - Finance [MAT-1035]
+UID:event-assignment-3720711
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=04&year=2018#assignment_3720711
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180429
+DTSTAMP:20180112T192300Z
+DTSTART;VALUE=DATE:20180429
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Course Final [DGM-1620]
+UID:event-assignment-3775304
+URL:http://uvu.instructure.com/calendar?include_contexts=course_451159&mont
+ h=04&year=2018#assignment_3775304
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180429
+DTSTAMP:20180117T050600Z
+DTSTART;VALUE=DATE:20180429
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Game [DGM-1600]
+UID:event-assignment-3781865
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452866&mont
+ h=04&year=2018#assignment_3781865
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180429
+DTSTAMP:20180112T192300Z
+DTSTART;VALUE=DATE:20180429
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Sketchbook Scans [DGM-1620]
+UID:event-assignment-3775307
+URL:http://uvu.instructure.com/calendar?include_contexts=course_451159&mont
+ h=04&year=2018#assignment_3775307
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20180429
+DTSTAMP:20180117T050700Z
+DTSTART;VALUE=DATE:20180429
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Roll Call Attendance [DGM-1600]
+UID:event-assignment-3781898
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452866&mont
+ h=04&year=2018#assignment_3781898
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTEND:20180502T190000Z
+DTSTAMP:20180106T234600Z
+DTSTART:20180502T190000Z
+CLASS:PUBLIC
+SEQUENCE:0
+SUMMARY:Final Exam [MAT-1035]
+UID:event-assignment-3720720
+URL:http://uvu.instructure.com/calendar?include_contexts=course_452027&mont
+ h=05&year=2018#assignment_3720720
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+END:VCALENDAR

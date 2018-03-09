@@ -17,7 +17,7 @@ public class Wonder : MonoBehaviour {
 	}
 
 	void Wondering(){
-		print("wolf is Wondering");
+		print("Wolf is Wondering");
 		transform.Translate(Vector3.forward*moveSpeed*Time.deltaTime);
 		int randomNum = Random.Range(0,360);
 		Vector3 fwd = transform.TransformDirection(Vector3.forward);
@@ -34,7 +34,7 @@ public class Wonder : MonoBehaviour {
 	}
 
 	void Following(){
-		print("wolf is following");
+		print("Wolf is following");
 		transform.LookAt(target);
 		transform.Translate(Vector3.forward*moveSpeed*Time.deltaTime);
 	}
